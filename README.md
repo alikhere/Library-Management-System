@@ -22,4 +22,4 @@ The **Library Management System** is a desktop application developed in Java usi
 ## Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/library-management-system.git
+   git clone https://github.com/alikhere/Library-Management-System.git
